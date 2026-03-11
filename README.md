@@ -32,7 +32,7 @@ I enjoy working on:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,c,python,nodejs,git,github,unity,angular,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cs,csp,py,nodejs,git,github,unity,,vscode&theme=dark"/>
 
 </div>
 
