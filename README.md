@@ -10,7 +10,7 @@
 https://christian-noack.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20Noack-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-noack-6957973b0/)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JMeR38j)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vZ9hynGPpf)
 
 </div>
 
