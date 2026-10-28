@@ -18,7 +18,7 @@ https://christian-noack.com
 
 # 🛡 About Me
 
-I'm a **Principal Security Engineer** and freelance developer based in the DACH region, running **CN Security & Systems**.
+I'm a **Security Consultant & Developer** and freelance developer based in the DACH region, running **CN Security & Systems**.
 
 My main focus is **offensive security** — penetration testing, vulnerability assessments and security audits for companies that take their IT security seriously. Alongside that, I take on **frontend and backend development**, always built with security in mind from the first line of code.
 
@@ -82,21 +82,6 @@ My main focus is **offensive security** — penetration testing, vulnerability a
 
 ---
 
-# 🧩 Project Showcase
-
-## 🛰 Voidcore — Infinite War
-
-**Browser-based sci-fi space strategy game**, developed solo end-to-end.
-
-* Multi-resource economy across five resource types
-* Planet colonization across a persistent galaxy/system map
-* Fleet logistics & automated delivery routes
-* Rotating boss encounters and season-based ranking
-
-🔗 https://voidcore.org
-
----
-
 ## 🔒 CN Security & Systems
 
 **Cybersecurity consulting & penetration testing practice.**
@@ -106,15 +91,6 @@ My main focus is **offensive security** — penetration testing, vulnerability a
 * Frontend/backend development offered as a secondary, security-first service
 
 🔗 https://christian-noack.com
-
----
-
-## 🎮 Tower Defense Project
-
-**Experimental browser-based tower defense.**
-
-* Modular enemy & upgrade systems
-* Focus on scalable gameplay mechanics
 
 ---
 
@@ -140,7 +116,7 @@ My main focus is **offensive security** — penetration testing, vulnerability a
 
 🌐 **Website** — https://christian-noack.com
 💼 **LinkedIn** — https://www.linkedin.com/in/christian-noack-6957973b0/
-💬 **Discord** — https://discord.gg/JMeR38j
+💬 **Discord** — https://discord.gg/vZ9hynGPpf
 💻 **GitHub** — https://github.com/ChrisNo86
 ✉️ **E-Mail** — admin@christian-noack.com
 
