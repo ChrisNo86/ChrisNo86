@@ -118,7 +118,7 @@ My main focus is **offensive security** — penetration testing, vulnerability a
 💼 **LinkedIn** — https://www.linkedin.com/in/christian-noack-6957973b0/
 💬 **Discord** — https://discord.gg/vZ9hynGPpf
 💻 **GitHub** — https://github.com/ChrisNo86
-✉️ **E-Mail** — admin@christian-noack.com
+✉️ **E-Mail** — info@christian-noack.com
 
 ---
 
