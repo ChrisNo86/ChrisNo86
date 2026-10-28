@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0C1418,50:182329,100:0C1418&text=Christian%20Noack&fontColor=FF5468&fontSize=46&animation=fadeIn&fontAlignY=40"/>
 
-<h2>Principal Security Engineer • Penetration Tester • Full-Stack Developer</h2>
+<h2>Security Consultant & Developer</h2>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=FF5468&center=true&vCenter=true&width=750&lines=Finding+the+gaps+before+attackers+do;Penetration+Testing+%7C+Security+Audits;Secure-by-Design+Web+Development;CPENT+%C2%B7+CEH+%C2%B7+CySA%2B+Certified"/>
 
