@@ -14,7 +14,7 @@
 
 ## 👋 About me
 
-<img src="assets/profile.jpg" width="320" align="right" alt="Christian Noack at his desk in front of the CN Security & Systems logo"/>
+<img src="assets/profile.png" width="320" align="right" alt="Christian Noack at his desk in front of the CN Security & Systems logo"/>
 
 I'm Christian, and I run **CN Security & Systems** in Detmold, Germany.
 
