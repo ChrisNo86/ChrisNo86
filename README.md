@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0C1418,50:182329,100:0C1418&text=Christian%20Noack&fontColor=FF5468&fontSize=46&animation=fadeIn&fontAlignY=40&desc=CN%20Security%20%26%20Systems%20%C2%B7%20Detmold&descAlignY=60&descSize=18&descColor=9FB0BA" alt="Christian Noack – CN Security & Systems"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0C1418,50:182329,100:0C1418&text=Christian%20Noack&fontColor=FF5468&fontSize=46&animation=fadeIn&fontAlignY=40" alt="Christian Noack – CN Security & Systems"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=FF5468&center=true&vCenter=true&width=760&lines=IT+help+%26+smart+home+around+Detmold;Handmade+websites+%26+WordPress+designs;Secure-by-design+web+development;Systems+integration+specialist+%C2%B7+Electrician" alt="IT help & smart home around Detmold · Handmade websites & WordPress designs · Secure-by-design web development"/>
 
